@@ -1,4 +1,4 @@
-# 🛒 Zipto Dark Store DownLane 3: Products & Promotions Analysis
+# 🛒 Zepto Dark Store DownLane 3: Products & Promotions Analysis
 
 An end-to-end quick commerce data analytics and business intelligence project conducted on **Zipto's Noida Cluster (10 Dark Stores)** analyzing operational performance data from **18 May to 28 Jun 2026**. 
 
