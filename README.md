@@ -16,6 +16,18 @@ This hackathon project was built collaboratively by:
 
 ---
 
+## 📊 Dashboard Preview
+
+### 1. What do we sell? (Product Performance)
+
+![What do we sell? Dashboard](https://github.com/thiro2003/Zepto-Dark-Store-DownLane-3-Products-Promotions-Analysis/blob/main/What%20Do%20we%20Sell.png?raw=true)
+
+### 2. How much did discounts cost us? (Promo Code Performance)
+
+![How much did discounts cost us? Dashboard](https://github.com/thiro2003/Zepto-Dark-Store-DownLane-3-Products-Promotions-Analysis/blob/main/How%20Much%20Discount%20Cost%20Us.png?raw=true)
+
+---
+
 ## 📊 Business Context & Key Insights
 
 The project analyzed **2.44 Lakh units sold** across **8 categories**, generating **₹2.67 Cr in Gross Revenue** on delivered orders.
@@ -69,4 +81,8 @@ The project analyzed **2.44 Lakh units sold** across **8 categories**, generatin
 ├── products.csv         # SKU catalog details (sku, category, mrp, unit_cost, margin_pct)
 ├── Hackathon.xlsx        # Processed Excel workbook with Power Query & Power Pivot Data Model
 ├── Insights.pptx         # Executive summary deck for Dark Store DownLane 3
+├── images/               # Dashboard screenshots used in this README
+│   ├── dashboard_what_do_we_sell.png
+│   └── dashboard_discount_cost.png
 └── README.md             # Project documentation
+```
